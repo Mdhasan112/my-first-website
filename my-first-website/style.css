@@ -1,0 +1,16 @@
+
+    .blog{
+        border: 30px solid purple;
+        border-radius: 30px;
+        width: 20%;
+        margin: 30px 30px 30px 30px;
+        padding: 20px;
+        float: left;
+
+    }
+    h2{
+        text-align: center;
+    }
+    p{
+        text-align: justify;
+    }
